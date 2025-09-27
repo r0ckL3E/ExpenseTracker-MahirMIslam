@@ -1,0 +1,16 @@
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: expenseTracker
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: expensetracker_admin
+      MONGO_INITDB_ROOT_PASSWORD: MySecureDBPassword123!
+      MONGO_INITDB_DATABASE: expense-tracker
+    volumes:
+      - expenseTracker_data:/data/db
+
+volumes:
+  expenseTracker_data:
