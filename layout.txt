@@ -16,10 +16,13 @@
 ./frontend/expense-tracker/eslint.config.js
 ./frontend/expense-tracker/src
 ./frontend/expense-tracker/src/context
+./frontend/expense-tracker/src/context/UserContext.jsx
 ./frontend/expense-tracker/src/utils
 ./frontend/expense-tracker/src/utils/apiPaths.js
+./frontend/expense-tracker/src/utils/uploadImage.js
 ./frontend/expense-tracker/src/utils/data.js
 ./frontend/expense-tracker/src/utils/helper.js
+./frontend/expense-tracker/src/utils/axiosInstance.js
 ./frontend/expense-tracker/src/index.css
 ./frontend/expense-tracker/src/components
 ./frontend/expense-tracker/src/components/layouts
@@ -52,6 +55,8 @@
 ./backend/server.js
 ./backend/node_modules
 ./backend/uploads
+./backend/uploads/1759476137474-no-text-watermarkedArtboard-1@0.5x-80.jpg
+./backend/uploads/1759476239654-no-text-watermarkedArtboard-1@0.5x-80.jpg
 ./backend/uploads/1759008575376-6fdytiehhhu51.jpg
 ./backend/models
 ./backend/models/Expense.js
@@ -76,6 +81,7 @@
 ./git-commit-log
 ./git-commit-log/frontend-commit-1.md
 ./git-commit-log/backend-commit-1.md
+./git-commit-log/backend-commit-4.md
 ./git-commit-log/backend-commit-3.md
 ./git-commit-log/backend-commit-2.md
 ./git-commit-log/postman-testing-workflow.md
