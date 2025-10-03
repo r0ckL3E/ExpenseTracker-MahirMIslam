@@ -64,6 +64,7 @@
 ./backend/docker-compose.yml
 ./backend/controllers
 ./backend/controllers/expenseController.js
+./backend/controllers/dashboardController.js
 ./backend/controllers/incomeController.js
 ./backend/controllers/authController.js
 ./backend/routes
@@ -75,6 +76,7 @@
 ./git-commit-log
 ./git-commit-log/frontend-commit-1.md
 ./git-commit-log/backend-commit-1.md
+./git-commit-log/backend-commit-3.md
 ./git-commit-log/backend-commit-2.md
 ./git-commit-log/postman-testing-workflow.md
 ./layout.txt
