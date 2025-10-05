@@ -29,11 +29,16 @@
 ./frontend/expense-tracker/src/components/Cards/TransactionInfoCard.jsx
 ./frontend/expense-tracker/src/components/Cards/InfoCard.jsx
 ./frontend/expense-tracker/src/components/Cards/CharAvatar.jsx
+./frontend/expense-tracker/src/components/Income
+./frontend/expense-tracker/src/components/Income/IncomeList.jsx
+./frontend/expense-tracker/src/components/Income/AddIncomeForm.jsx
+./frontend/expense-tracker/src/components/Income/IncomeOverview.jsx
 ./frontend/expense-tracker/src/components/Charts
 ./frontend/expense-tracker/src/components/Charts/CustomPieChart.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomTooltip.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomLegend.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomBarChart.jsx
+./frontend/expense-tracker/src/components/Modal.jsx
 ./frontend/expense-tracker/src/components/Dashboard
 ./frontend/expense-tracker/src/components/Dashboard/RecentTransactions.jsx
 ./frontend/expense-tracker/src/components/Dashboard/RecentIncomeWithChart.jsx
@@ -46,6 +51,8 @@
 ./frontend/expense-tracker/src/components/layouts/AuthLayout.jsx
 ./frontend/expense-tracker/src/components/layouts/SideMenu.jsx
 ./frontend/expense-tracker/src/components/layouts/Navbar.jsx
+./frontend/expense-tracker/src/components/EmojiPickerPopUp.jsx
+./frontend/expense-tracker/src/components/DeleteAlert.jsx
 ./frontend/expense-tracker/src/components/Inputs
 ./frontend/expense-tracker/src/components/Inputs/Input.jsx
 ./frontend/expense-tracker/src/components/Inputs/ProfilePhotoSelector.jsx
