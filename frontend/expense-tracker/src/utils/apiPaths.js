@@ -21,6 +21,7 @@ export const API_PATHS = {
         GET_ALL_EXPENSE: "/api/v1/expense/get",
         DELETE_EXPENSE: (expenseId) => `/api/v1/expense/${expenseId}`,
         DOWNLOAD_EXPENSE: `/api/v1/expense/downloadexcel`,
+        AI_CATEGORIZE: "/api/v1/expense/ai-categorize",
     },
     IMAGE: {
         UPLOAD_IMAGE: "/api/v1/auth/upload-image",
