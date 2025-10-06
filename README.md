@@ -102,7 +102,7 @@ NODE_ENV=development
 # Database Configuration
 MONGO_URI=mongodb://localhost:27017/expenseTracker
 # OR for MongoDB Atlas:
-# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/expenseTracker
+# MONGO_URI=
 
 # JWT Configuration
 JWT_SECRET=your_super_secure_jwt_secret_key_here_min_32_chars
