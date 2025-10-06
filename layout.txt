@@ -25,6 +25,10 @@
 ./frontend/expense-tracker/src/utils/axiosInstance.js
 ./frontend/expense-tracker/src/index.css
 ./frontend/expense-tracker/src/components
+./frontend/expense-tracker/src/components/Expense
+./frontend/expense-tracker/src/components/Expense/ExpenseOverview.jsx
+./frontend/expense-tracker/src/components/Expense/AddExpenseForm.jsx
+./frontend/expense-tracker/src/components/Expense/ExpenseList.jsx
 ./frontend/expense-tracker/src/components/Cards
 ./frontend/expense-tracker/src/components/Cards/TransactionInfoCard.jsx
 ./frontend/expense-tracker/src/components/Cards/InfoCard.jsx
@@ -36,6 +40,7 @@
 ./frontend/expense-tracker/src/components/Charts
 ./frontend/expense-tracker/src/components/Charts/CustomPieChart.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomTooltip.jsx
+./frontend/expense-tracker/src/components/Charts/CustomLineChart.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomLegend.jsx
 ./frontend/expense-tracker/src/components/Charts/CustomBarChart.jsx
 ./frontend/expense-tracker/src/components/Modal.jsx
@@ -105,7 +110,9 @@
 ./backend/routes/incomeRoutes.js
 ./README.md
 ./git-commit-log
+./git-commit-log/frontend-commit-5.md
 ./git-commit-log/frontend-commit-1.md
+./git-commit-log/frontend-commit-4.md
 ./git-commit-log/backend-commit-1.md
 ./git-commit-log/backend-commit-4.md
 ./git-commit-log/backend-commit-3.md
